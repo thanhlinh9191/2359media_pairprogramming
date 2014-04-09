@@ -8,6 +8,7 @@
 //them feature #0001
 
 //dau la ban release #0001
+//themf feature #002
 
 #import "PP_AppDelegate.h"
 
