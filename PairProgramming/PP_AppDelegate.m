@@ -9,6 +9,8 @@
 
 //dau la ban release #0001
 
+//day la ban fix bug #0001
+
 #import "PP_AppDelegate.h"
 
 @implementation PP_AppDelegate
